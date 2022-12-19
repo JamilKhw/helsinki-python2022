@@ -4,10 +4,9 @@ Welcome to my Pygame project for the 2022 Helsinki Python Programming MOOC! The 
 
 In this game, your goal is to collect 30 points within a 40-second time limit while avoiding monsters that randomly spawn and fall down the screen. Each coin you touch adds 1 point to your score, but if you touch a monster, the game instantly ends. Can you collect 30 coins within the time limit? It may be harder than you think!
 
-<div style="text-align:center">
-  ![Screenshot of the game](https://raw.githubusercontent.com/JamilKhw/helsinki-python2022/main/game_screenshot.png)
-</div>
-
+<p align="center">
+  <img width="752" height="620" src="game_screenshot.png">
+</p>
 
 ## Installation
 
